@@ -42,3 +42,11 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mayurisampathgiri/MinesweeperClassic.git
+
+##  Usage 
+
+Compile and run the Minesweeper.java file using a Java development environment or command line.
+
+```bash
+javac Minesweeper.java
+java Minesweeper
