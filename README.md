@@ -10,8 +10,6 @@ A simple Minesweeper game implemented in Java using Swing.
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
@@ -42,6 +40,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/mayurisampathgiri/MinesweeperClassic.git
+```
 
 ##  Usage 
 
@@ -50,3 +49,9 @@ Compile and run the Minesweeper.java file using a Java development environment o
 ```bash
 javac Minesweeper.java
 java Minesweeper
+```
+
+## Acknowledgments
+
+Minesweeper tutorial by Jan Bodnar (ZetCode(https://zetcode.com/))
+Images by OpenGameArt.org
