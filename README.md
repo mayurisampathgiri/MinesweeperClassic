@@ -10,7 +10,6 @@ A simple Minesweeper game implemented in Java using Swing.
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
 
 ## Description
 
@@ -50,8 +49,3 @@ Compile and run the Minesweeper.java file using a Java development environment o
 javac Minesweeper.java
 java Minesweeper
 ```
-
-## Acknowledgments
-
-Minesweeper tutorial by Jan Bodnar ([ZetCode](https://zetcode.com/))
-Images by [OpenGameArt](https://opengameart.org/)
