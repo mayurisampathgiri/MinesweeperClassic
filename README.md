@@ -53,5 +53,5 @@ java Minesweeper
 
 ## Acknowledgments
 
-Minesweeper tutorial by Jan Bodnar (ZetCode(https://zetcode.com/))
-Images by OpenGameArt.org
+Minesweeper tutorial by Jan Bodnar ([ZetCode](https://zetcode.com/))
+Images by [OpenGameArt](https://opengameart.org/)
