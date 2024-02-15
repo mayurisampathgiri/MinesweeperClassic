@@ -17,8 +17,8 @@ This project is a Minesweeper game implemented in Java. It features a graphical 
 
 ## Screenshots
 
-![Screenshot 1](screenshots\lost-game.png)
-![Screenshot 2](screenshots\win-game.png)
+![Screenshot 1](screenshots/lost-game.png)
+![Screenshot 2](screenshots/win-game.png)
 
 ## Features
 
